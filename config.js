@@ -11,7 +11,7 @@
 *
 */
 
-exports.server = 'bdpb.herokuapp.com';
+exports.server = 'bd-battlers.herokuapp.com';
 
 exports.port = 80;
 
