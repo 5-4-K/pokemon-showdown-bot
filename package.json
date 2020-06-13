@@ -7,9 +7,9 @@
     "url": "https://github.com/Ecuacion"
   },
   "scripts": {
+    "heroku-cleanup": "node bot",
     "start": "node bot",
-    "test": "gulp && mocha",
-    "heroku-cleanup": "node bot"
+    "test": "gulp && mocha"
   },
   "contributors": [
     {
